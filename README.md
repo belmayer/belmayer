@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou a Isabella Mayer 👋</h1>
 
 <p align="center">
-  <b>Estudante de Engenharia de Software · Estagiária de Desenvolvimento na JUCERJA</b><br>
-  Back-end com Java & Spring Boot · Microsserviços · Automação de processos
+  <b>Estudante de Engenharia de Software · Desenvolvedora Web</b><br>
+  Desenvolvimento web para clientes · Java & Spring Boot · Microsserviços · Automação de processos
 </p>
 
 <p align="center">
@@ -16,11 +16,12 @@
 ### Sobre mim
 
 - Curso **Bacharelado em Engenharia de Software** no **Instituto Infnet**.
-- Estagiária na **JUCERJA** (Junta Comercial do Estado do Rio de Janeiro), onde desenvolvo **ferramentas internas e automações** com Java, Spring Boot e SQL Server.
+- Atuo no **desenvolvimento web para clientes**.
+- Fui estagiária na **JUCERJA** (Junta Comercial do Estado do Rio de Janeiro), onde desenvolvi **ferramentas internas e automações** com Java, Spring Boot e SQL Server.
 - Gosto de transformar processos manuais em sistemas confiáveis: validação, processamento em lote, auditoria e boa documentação.
 - No momento estudo **arquitetura de microsserviços, DDD e mensageria com Kafka**.
 
-> 🇺🇸 *Software Engineering student and developer intern at JUCERJA (Rio de Janeiro's Board of Trade), building internal tools and automation with Java, Spring Boot and SQL Server. Currently focused on microservices, DDD and event-driven architecture.*
+> 🇺🇸 *Software Engineering student and web developer building web applications for clients. Former developer intern at JUCERJA (Rio de Janeiro's Board of Trade), where I built internal tools and automation with Java, Spring Boot and SQL Server. Currently focused on microservices, DDD and event-driven architecture.*
 
 ---
 
